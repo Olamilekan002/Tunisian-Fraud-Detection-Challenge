@@ -7,15 +7,15 @@ The objective of the challenge is to detect tax fraud. This is one of the main p
 
 Using historical data, a supervised machine learning technique that detects potential fraudulent taxpayers will increase the operational efficiency of the tax supervision process.
 
-My Approach
-Handled Missing Values
-Drop a lot of Non important features
-Robust Scaling
-KFold Validation
-Model Blending
+My Approach: 
+Handled Missing Values,
+Drop a lot of Non important features,
+Robust Scaling,
+KFold Validation,
+Model Blending,
 
-Improvements that can be made
-Feature Selection
-Handling missing data more efficiently
-Hyper-parameter tuning
-Blending
+Improvements that can be made include
+Feature Selection,
+Handling missing data more efficiently,
+Hyper-parameter tuning,
+Blending.
